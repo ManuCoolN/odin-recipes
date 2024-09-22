@@ -1,0 +1,13 @@
+body {
+    color: #ff40ff;
+    background-color: #1D1D1D;
+    font-family: 'Audiowide', sans-serif;
+    background-image: url('Recipe_Picture.png');
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+
+a {
+    color: #ff40ff;
+    font-size: x-large;
+}
